@@ -1,0 +1,14 @@
+[
+    {
+        "package": "egg",
+        "url": "https://github.com/baptiste/egg"
+    },
+    {
+        "package": "gridextra",
+        "url": "https://github.com/baptiste/gridextra"
+    },
+    {
+        "package": "minixcali",
+        "url": "https://github.com/baptiste/minixcali"
+    }
+]
