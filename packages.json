@@ -10,5 +10,9 @@
     {
         "package": "minixcali",
         "url": "https://github.com/baptiste/minixcali"
+    },
+    {
+        "package": "ggflags",
+        "url": "https://github.com/baptiste/ggflags"
     }
 ]
